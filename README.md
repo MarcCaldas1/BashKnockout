@@ -9,7 +9,6 @@ Un juego de combate por turnos escrito en Bash, con personajes únicos, habilida
 - **Habilidades especiales** por personaje (1 por combate)
 - **IA inteligente** con comportamientos adaptativos
 - **Interfaz colorida** con ASCII art y barras de vida
-- **Efectos de sonido** *(opcional)*
 
 ## 👥 Personajes
 
